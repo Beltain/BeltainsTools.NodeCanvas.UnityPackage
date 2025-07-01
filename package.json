@@ -5,7 +5,7 @@
   "description": "Extension of BeltainsTools, including bits for Node Canvas.",
   "unity": "6000.0",
   "dependencies": {
-    "com.beltainjordaan.beltainstools"
+    "com.beltainjordaan.beltainstools": "1.0.0"
  },
   "author": {
     "name": "Beltain Jordaan",
