@@ -1,0 +1,20 @@
+{
+    "name": "com.beltainjordaan.beltainstools.nodecanvas",
+    "rootNamespace": "BeltainsTools.NodeCanvas",
+    "references": [
+        "com.beltainjordaan.beltainstools",
+        "NodeCanvas",
+        "ParadoxNotion"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "com.beltainjordaan.beltainstools.nodecanvas",
+  "version": "1.0.0",
+  "displayName": "BeltainsTools - NodeCanvas",
+  "description": "Extension of BeltainsTools, including bits for Node Canvas.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.beltainjordaan.beltainstools"
+ },
+  "author": {
+    "name": "Beltain Jordaan",
+    "url": "https://www.BeltainJordaan.com"
+  }
+}
